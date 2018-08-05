@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<HTML>
 
-You can use the [editor on GitHub](https://github.com/morzarine/PERINGATAN-UNTUK-PENGGUNA-SOSIAL-MEDIA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<body background="hacking.jpg">
+<center><font color="white" face="Demonized" size="8">HALLO PARA PENGGUNA SOSIAL MEDIA</font></center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<center><img class="irc_mi" src="https://hirehackingservice.com/wp-content/uploads/2018/03/cropped-nnnnn-e1522128409472-1.png" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="300" height="250" style="margin-top: 9px;" alt="Hasil gambar untuk hacker logo png">
 
-### Markdown
+<center><font color="white" face="Arial" size="6">SAYA CUMA MENGINGATKAN UNTUK LEBIH MEMPERHATIKAN KEAMANAN AKUN KALIAN</font></center>
+<center><font color="white" face="Arial" size="6">BERHATI-HATILAH !!!</font></center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<marquee direction="left"><font color="yellow" size="10">+++++++++++++++++++++++++++++++++++++++++++++</font></marquee>
 
-```markdown
-Syntax highlighted code block
+<center><font color="white" face="Arial" size="6">HACKED BY</font></center>
+<center><font color="yellow" face="demonized" size="20">MORZARINE</font></center>
 
-# Header 1
-## Header 2
-### Header 3
+<marquee direction="right"><font color="white" size="10">+++++++++++++++++++++++++++++++++++++++++++++</font></marquee>
 
-- Bulleted
-- List
+<center><font color="red" face="arial" size="5">WE ARE HACKER</font></center>
 
-1. Numbered
-2. List
+<center><font color="white" face="arial" size="5">WE ARE LEGION</font></center>
 
-**Bold** and _Italic_ and `Code` text
+<center><font color="red" face="arial" size="5">WE DO NOT FORGIVE</font></center>
 
-[Link](url) and ![Image](src)
-```
+<center><font color="white" face="arial" size="5">WE DO NOT FORGET</font></center>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<center><font color="red" face="arial" size="5">EXPECT US!!!</font></center>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/morzarine/PERINGATAN-UNTUK-PENGGUNA-SOSIAL-MEDIA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<tittle><font color="yellow">Created by MORZARINE</font></tittle>
